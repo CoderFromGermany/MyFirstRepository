@@ -1,7 +1,5 @@
-This is a test, a test is this.
-Go away, there is nothing to see here!
-
-
+I created a branch....
+... and I named it unicorn.
 
 Still reading, huh?
 
@@ -9,3 +7,5 @@ Ok....I don't care!
 
 Well.....I edited this....fascinating!
 Now let's see
+
+BTW: Coding Rainbow brought me here ;-)
